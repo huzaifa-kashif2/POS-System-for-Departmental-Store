@@ -1,0 +1,128 @@
+</ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AddUser.cpp" />
+    <ClCompile Include="Driver.cpp" />
+    <ClCompile Include="GenerateSlips.cpp" />
+    <ClCompile Include="MyForm.cpp" />
+    <ClCompile Include="RemoveRestaurants.cpp" />
+    <ClCompile Include="UserMenu.cpp" />
+    <ClCompile Include="View Users.cpp" />
+    <ClCompile Include="ViewDrivers.cpp" />
+    <ClCompile Include="ViewOrders.cpp" />
+    <ClCompile Include="View_Cart.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AddRestaurant1.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Driver.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="GenerateSlips.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="PlaceOrder.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="RemoveRestaurants.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="UserMenu.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="View Past Orders.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="ViewCart.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="ViewOrders1.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="ViewRestMenu1.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddRestaurant1.resx">
+      <DependentUpon>AddRestaurant1.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Driver.resx">
+      <DependentUpon>Driver.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenerateSlips.resx">
+      <DependentUpon>GenerateSlips.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlaceOrder.resx">
+      <DependentUpon>PlaceOrder.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveRestaurants.resx">
+      <DependentUpon>RemoveRestaurants.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserMenu.resx">
+      <DependentUpon>UserMenu.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Past Orders.resx">
+      <DependentUpon>View Past Orders.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewCart.resx">
+      <DependentUpon>ViewCart.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewOrders1.resx">
+      <DependentUpon>ViewOrders1.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewRestMenu1.resx">
+      <DependentUpon>ViewRestMenu1.h</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
