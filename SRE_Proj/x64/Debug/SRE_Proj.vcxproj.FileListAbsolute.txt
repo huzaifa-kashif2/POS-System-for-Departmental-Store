@@ -1,0 +1,34 @@
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SRE_Proj.vcxproj.AssemblyReference.cache
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SRE_Proj.vcxproj.SuggestedBindingRedirects.cache
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SREProj.Driver.resources
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SRE_Proj.vcxproj.GenerateResource.cache
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SREProj.UserMenu.resources
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SREProj.AddRestaurant.resources
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SREProj.AddUser.resources
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SREProj.PlaceOrder.resources
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SREProj.ViewDrivers.resources
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SREProj.ViewOrders.resources
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SREProj.ViewRestMenu.resources
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SREProj.RemoveRestaurant.resources
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SREProj.GenerateSlips.resources
+E:\Programming\GUI Production\SRE_Proj\SRE_Proj\x64\Debug\SREProj.View Users.resources
+C:\Users\hp\Downloads\SRE_Proj\SRE_Proj\x64\Debug\SRE_Proj.vcxproj.AssemblyReference.cache
+C:\Users\hp\Downloads\SRE_Proj\SRE_Proj\x64\Debug\SREProj.AddUser.resources
+C:\Users\hp\Downloads\SRE_Proj\SRE_Proj\x64\Debug\SREProj.Driver.resources
+C:\Users\hp\Downloads\SRE_Proj\SRE_Proj\x64\Debug\SREProj.GenerateSlips.resources
+C:\Users\hp\Downloads\SRE_Proj\SRE_Proj\x64\Debug\SREProj.PlaceOrder.resources
+C:\Users\hp\Downloads\SRE_Proj\SRE_Proj\x64\Debug\SREProj.UserMenu.resources
+C:\Users\hp\Downloads\SRE_Proj\SRE_Proj\x64\Debug\SRE_Proj.vcxproj.GenerateResource.cache
+C:\Users\hp\Downloads\SRE_Proj\SRE_Proj\x64\Debug\SREProj.View Past Orders.resources
+D:\University Stuff\Semester 3\Projects\SRE_Proj\SRE_Proj\x64\Debug\SRE_Proj.vcxproj.AssemblyReference.cache
+D:\University Stuff\Semester 3\Projects\SRE_Proj\SRE_Proj\x64\Debug\SREProj.Driver.resources
+D:\University Stuff\Semester 3\Projects\SRE_Proj\SRE_Proj\x64\Debug\SREProj.GenerateSlips.resources
+D:\University Stuff\Semester 3\Projects\SRE_Proj\SRE_Proj\x64\Debug\SREProj.PlaceOrder.resources
+D:\University Stuff\Semester 3\Projects\SRE_Proj\SRE_Proj\x64\Debug\SREProj.UserMenu.resources
+D:\University Stuff\Semester 3\Projects\SRE_Proj\SRE_Proj\x64\Debug\SREProj.View Past Orders.resources
+D:\University Stuff\Semester 3\Projects\SRE_Proj\SRE_Proj\x64\Debug\SRE_Proj.vcxproj.GenerateResource.cache
+D:\University Stuff\Semester 3\Projects\SRE_Proj\SRE_Proj\x64\Debug\SREProj.ViewCart.resources
+D:\University Stuff\Semester 3\Projects\SRE_Proj\SRE_Proj\x64\Debug\SREProj.AddRestaurant1.resources
+D:\University Stuff\Semester 3\Projects\SRE_Proj\SRE_Proj\x64\Debug\SREProj.RemoveRestaurants.resources
+D:\University Stuff\Semester 3\Projects\SRE_Proj\SRE_Proj\x64\Debug\SREProj.ViewOrders1.resources
+D:\University Stuff\Semester 3\Projects\SRE_Proj\SRE_Proj\x64\Debug\SREProj.ViewRestMenu1.resources
